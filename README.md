@@ -4,7 +4,7 @@
 
 In this code-along lesson, we'll cover nested forms that can create multiple objects.
 
-## Objectives
+## Objectivess
 
 1. Create models for each class of objects
 2. Structure data that a controller action will receive to handle multiple objects
